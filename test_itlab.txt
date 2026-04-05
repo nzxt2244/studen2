@@ -2,6 +2,6 @@
 echo connect to abc.com
 curl abc.com
 touch abc.txt
-calculator.exe
+notepad.exe
 echo finish
 exit /b
