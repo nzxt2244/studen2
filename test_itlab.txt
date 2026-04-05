@@ -1,5 +1,6 @@
 @echo on
 echo connect to abc.com
 curl abc.com
+touch abc.txt
 echo finish
 exit /b
