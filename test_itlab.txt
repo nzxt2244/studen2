@@ -1,1 +1,4 @@
+echo connect to abc.com
 curl abc.com
+echo finish
+ping 8.8.8.8
