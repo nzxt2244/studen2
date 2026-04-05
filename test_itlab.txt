@@ -2,3 +2,4 @@
 echo connect to abc.com
 curl abc.com
 echo finish
+exit /b
