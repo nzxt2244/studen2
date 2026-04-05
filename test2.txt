@@ -1,0 +1,6 @@
+echo connect to abc.com
+curl abc.com
+touch abc.txt
+notepad.exe
+echo finish
+exit /b
